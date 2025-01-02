@@ -6,8 +6,8 @@ local serv = win:Server("Preview", "")
 
 local btns = serv:Channel("Buttons")
 
-btns:Button("MSI BURMA", function()
-DiscordLib:Notification("Notification", "Made By MSI BURMA", "Okay!")
+btns:Button("Midnight Hub", function()
+DiscordLib:Notification("Notification", "Made By Midnight Hub", "Okay!")
 end)
 
 btns:Seperator()
