@@ -58,7 +58,7 @@ game:GetService("ReplicatedStorage").fewjnfejwb3:FireServer(unpack(args))
     end
 end)
 
-serv:Channel("MSI BURMA")
+serv:Channel("Midnight Hub")
 
 
 win:Server("Main", "http://www.roblox.com/asset/?id=6031075938")
